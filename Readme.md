@@ -1,5 +1,5 @@
 # Clonify
-### Naming things continues to be a challenge
+###### Naming things continues to be a challenge
 
 I want to use my Raspberry Pi as a music server. An opportunity to learn a few things and refresh my skills with various tools knocks.
 
@@ -16,6 +16,7 @@ Frontend is a mess, but allows for playing music and adding music to the play qu
 Immediate goals:
     - Media player controls. Play/pause/previous/next/repeat/shuffle/seek and volume sliders/etc
     - Create, delete, and edit playlists.
+    - Separate the css into multiple files so it's not such a monolith
 
 Slightly further off:
     - Automatically build database for files added to watched folders by reading tags and freedb or similar
