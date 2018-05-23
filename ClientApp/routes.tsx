@@ -1,7 +1,6 @@
 import * as React from 'react';
 import { Switch, Redirect, Route } from 'react-router-dom';
 import { Layout } from './components/Layout';
-import { Home } from './components/Home';
 import { Album } from './containers/Album';
 import { AlbumsCollection } from './containers/AlbumsCollection';
 import { Track } from './containers/Track';
